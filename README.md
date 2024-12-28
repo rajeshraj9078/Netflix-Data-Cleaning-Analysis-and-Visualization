@@ -9,6 +9,9 @@ The dataset includes a variety of content types, such as movies, TV shows, docum
 
 Insights into how Netflix's content offerings have evolved over the years can be drawn by analyzing the release year trends.
 
+![2](https://github.com/user-attachments/assets/dd092db9-ff3b-4214-9a98-26dc4e08afc4)
+
+
 **Content Distribution Across Countries:**
 
 The dataset shows the global reach of Netflix, revealing the countries where content is most popular. By analyzing the distribution of countries for different genres, we can uncover patterns in regional preferences.
@@ -19,6 +22,9 @@ Country-specific content availability trends can be explored, showing which coun
 Netflix shows a wide range of ratings across different genres and years. By analyzing the ratings for different shows, we can uncover which genres are rated the highest by viewers and which genres have the widest disparity in ratings.
 
 Investigating the relationship between ratings and other features like 'release year' or 'duration' could provide insights into content longevity and audience preferences.
+
+![3](https://github.com/user-attachments/assets/16ab4487-9da4-4d65-8796-664ecb0e13bd)
+
 
 **Genre Analysis:**
 
@@ -63,13 +69,13 @@ Removing irrelevant columns and duplicates.
 Handling outliers and ensuring consistency in the data.
 
 # Visualization:
+
+![4](https://github.com/user-attachments/assets/77e8189d-d789-47d1-8d49-f8c86a928ebf)
+
+
 *Distribution Plots:* To understand how different genres, countries, or content types are distributed across the platform.
 
 *Time Series Analysis:* To show trends in content release over the years.
 
 *Correlation Heatmaps:* To uncover potential relationships between features like ratings, release years, and content types.
 
-**Usage:**
-Clone this repository to access the cleaned data and analysis.
-Use the provided Jupyter Notebooks to replicate the analysis or modify it to explore new insights.
-Visualize Netflix’s content strategy and user engagement trends with the provided plots and graphs.
