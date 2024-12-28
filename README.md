@@ -48,7 +48,7 @@ A deeper dive into the release years can highlight how Netflix adapted its conte
 
 *Python:* For data cleaning, manipulation, and analysis.
 
-*Pandas & NumPy:** To handle and manipulate the dataset.
+*Pandas & NumPy:* To handle and manipulate the dataset.
 
 *Matplotlib & Seaborn:* For visualizing data insights and trends.
 
